@@ -7,7 +7,7 @@ const color = document.querySelector('#color')
 const text = document.querySelector("#text");
 const deftext = text.innerHTML;
 var words = [];
-var WordColor = color.value;
+
 
 const searchbtn = document.querySelector("#search");
 const btnreset = document.querySelector("#reset");
