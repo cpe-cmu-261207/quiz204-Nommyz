@@ -7,7 +7,7 @@ const color = document.querySelector('#color')
 // define more constants and variables here
 
 btn_toggle.onclick = () => {
-  const calculate =  document.querySelector('#author')
+  const calculate =  document.querySelector('h2')
   calculate.innerHTML = "630610748"
 }
 
